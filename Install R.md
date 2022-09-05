@@ -51,4 +51,23 @@ It automatically detects the correct version for you. Download and install!
 
 <kbd><img src="https://user-images.githubusercontent.com/825990/188418997-c43615ef-24c9-45c6-8fe6-6842cfe6b904.png" width=600></kbd>
 
+### Launch RStudio
+
+You are now ready to start programming in R. If you get the following message, install the git commands.
+
+準備万端！これでRプログラマーへの最初の一歩だ！次のメッセージが出たら、git commandsもインストールしておこう。
+
+<kbd><img src="https://user-images.githubusercontent.com/825990/188422113-1a71cea6-015a-485e-b34b-45b4ade909d9.jpg" width=600></kbd>
+
+This should be your starting RStudio environment.
+
+RStudio最初の画面は以下の通り。
+
+<kbd><img src="https://user-images.githubusercontent.com/825990/188435041-ac54dbbb-afea-4993-8877-acf1490737ee.png" width=600></kbd>
+
+Let's start with our first lesson.
+
+最初の課題に移りましょう。
+
+- Getting started with R
 
