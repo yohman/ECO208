@@ -23,12 +23,15 @@ New Directory → New Project
 
 <kbd><img alt="new" src="https://user-images.githubusercontent.com/825990/188398984-603300e9-b6ff-48f8-82d6-79eb9037b1e2.png" width=600></kbd>
 
-Enter "R101" for "Directory name" and choose a location to store your project:
+1. Enter "R101" for "Directory name"
+2. Choose a location to store your project
+3. Click on "Create Project"
 
-<kbd><img alt="directory name" src="https://user-images.githubusercontent.com/825990/188399822-0522c422-6dd2-43f0-a8ff-11d836dcb41f.png" width=600></kbd>
-
+<img width="534" alt="r101" src="https://user-images.githubusercontent.com/825990/188400444-a62630a0-7b68-4054-b18e-225776e0b72f.png">
 
 ### Load the data　（データを取り込む）
+
+
 ```
 library(readr)
 quake <- read_csv("quake.csv")
