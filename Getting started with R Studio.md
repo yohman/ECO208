@@ -1,7 +1,22 @@
 ## Getting Started with R-Studio (R-Studioを始めよう）
 
-### Install R Studio （インストール）
+> If you haven't installed R and RStudio, use the [following guide](Install%20R.md) to do so first, and then come back.
 
+> 「R」と「RStudio」をインストールしてなかったら、[このガイド](Install%20R.md)でインストールしてからここに戻ってきましょう。
+
+This workshop will attempt to answer the following questions:
+
+- What are the characteristics of global earthquakes that have occured in the last 30 days?
+- What is the largest earthquake?
+- What does the distribution of the magnitudes look like?
+- Is there a lot of variance in the magnitudes?
+
+このワークショップでは次の疑問に答えようとします：
+
+- 過去 30 日間に発生した世界的な地震の特徴は何ですか?
+- 最大の地震は何ですか?
+- マグニチュードの分布はどのように見えますか?
+- マグニチュードには大きなばらつきがありますか?
 
 ### Get some data　（データをゲット！）
 
