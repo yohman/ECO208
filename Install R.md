@@ -69,5 +69,5 @@ Let's start with our first lesson.
 
 最初の課題に移りましょう。
 
-- Getting started with R
+- [Getting started with R ｜「R」を始めよう](Getting%20started%20with%20R%20Studio.md)
 
