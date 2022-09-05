@@ -10,10 +10,19 @@ To install R to your local computer follow these steps.
 
 まずは自分のパソコンに「R」をインストールしましょう。
 
-Download the R installer
+### Mac users
+
+Download the R installer at https://cran.r-project.org/bin/macosx/
+
+「R」のインストールファイルをここからゲット：https://cran.r-project.org/bin/macosx/
+
+
+
+
+### Windows users
+
 
 - For Windows at https://cran.r-project.org/bin/windows/base/
-- For Mac at https://cran.r-project.org/bin/macosx/
 
 Install R by opening the installer and following the steps
 That's it! You can now run R from your local computer
