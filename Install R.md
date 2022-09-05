@@ -16,7 +16,11 @@ Download the R installer at https://cran.r-project.org/bin/macosx/
 
 「R」のインストールファイルをここからゲット：https://cran.r-project.org/bin/macosx/
 
+Most users will install the first link under **Latest release**
 
+大体のユーザーは最初のインストールリンクをクリック：
+
+<kbd><img src="https://user-images.githubusercontent.com/825990/188417265-5a74847a-bcdf-424a-bcfc-ae1361a96b13.png" width=600></kbd>
 
 
 ### Windows users
