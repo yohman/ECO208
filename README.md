@@ -1,5 +1,11 @@
 # ECO208: 入門計量経済学Ｂ-2
 
+## Guides ガイド
+
+- Install R and RStudio 「R」と「RStudio」をインストール
+- Getting started with R 「R」を始めよう
+
+## Schedule スケジュール
 
 Week | Topic | English
 --|--|--
