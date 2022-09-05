@@ -6,7 +6,9 @@ RとRStudioをインストールするガイドです。でも、なんで二つ
 
 ## Install R
 
-To install R to your local computer follow these steps:
+To install R to your local computer follow these steps.
+
+まずは自分のパソコンに「R」をインストールしましょう。
 
 Download the R installer
 
