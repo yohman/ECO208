@@ -2,7 +2,7 @@
 
 ## Guides ガイド
 
-- [Install R and RStudio ｜「R」と「RStudio」をインストール](Install%20R.md)
+- [Install R and RStudio ｜「R」と「RStudio」をインストール](InstallR.md)
 - [Getting started with R ｜「R」を始めよう](Getting%20started%20with%20R%20Studio.md)
 
 ## Schedule スケジュール
