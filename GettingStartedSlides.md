@@ -1,5 +1,6 @@
 ---
 marp: true
+theme: gaia
 ---
 
 ## Getting Started with R-Studio (R-Studioを始めよう）
