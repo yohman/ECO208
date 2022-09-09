@@ -148,7 +148,26 @@ R2 = 0 (bad fit　😖)
 
 ![](images/excel%20r2.png)
 
-## What about the F
+## T test<br>t検定
+
+
+
+
+## What about the P value?
+
+P値で説明変数（徒歩分数）が目的変数（家賃）に対して関係があるかどうかを確認する
+
+##
+
+P値が0.05未満であれば、
+「関係性がある」と判断ができる。
+
+
+要するに、この関係性はランダムではないので、帰無仮説 【null hypothesis】をrejectすることができる。
+
+## でも…
+
+![](images/excel%20low%20p.png)
 
 ## In that case...
 
