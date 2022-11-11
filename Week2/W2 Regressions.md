@@ -259,7 +259,7 @@ P値が優位水準0.05未満であれば、
 
 有意水準を上げてもいい。
 ## 要するに：
-「p値の有意水準を０.１だと、説明変数（徒歩分数）が目的変数（家賃）に対して有意に影響していることが言える。」
+「p値の有意水準を０.１で設定すると、説明変数（徒歩分数）が目的変数（家賃）に対して有意に影響していることが言える。」
 
 At 94% level of confidence that relationship is not due to random chance. That relationship actually exists in the housing market.
 
